@@ -1,0 +1,21 @@
+
+.radyo-box {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgba(3, 3, 3, 0.281);
+    width: fit-content;
+    flex-basis: 1;
+    flex-shrink: 1;
+    height: fit-content;
+    border-radius: 1cm;
+    border-style: none;
+    margin: 1cm;
+    padding: 1cm;
+    
+} 
+.radyo-image{
+    width: 3cm;
+    height: 3cm;
+}
+
